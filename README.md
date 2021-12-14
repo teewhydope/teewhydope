@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Android Engineer in Lagos, Nigeria
+I'm a Android Engineer
 
 
 
